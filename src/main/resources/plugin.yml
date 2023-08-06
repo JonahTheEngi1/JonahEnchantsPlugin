@@ -1,0 +1,9 @@
+name: JonahEnchantsPlugin
+version: '${project.version}'
+main: com.cosmictest.jonahenchantsplugin.JonahEnchantsPlugin
+api-version: 1.20
+description: EH
+commands:
+  lorebook:
+    description: Gives a custom enchant book to a player
+    usage: /lorebook <bookname>
